@@ -1,4 +1,4 @@
-# KAGGLE PROJECTS
+# NLP PROJECTS
 
 | Sl Number |      Repositories Name      |               Description                |
 | ----------| ---------------------- | ---------------------------------------- |
